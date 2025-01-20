@@ -10,9 +10,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Pyrmont Brewery<br>Sydney, Australia
+            Pyrmont Brewery<br/>Sydney, Australia
           </p>
-
         </header>
       </div>
     );
